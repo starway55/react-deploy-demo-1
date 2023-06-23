@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-deploy-1/static/js/main.79397479.js",
-    "index.html": "/react-deploy-1/index.html",
-    "main.79397479.js.map": "/react-deploy-1/static/js/main.79397479.js.map"
+    "main.js": "/react-deploy-demo-1/static/js/main.79397479.js",
+    "index.html": "/react-deploy-demo-1/index.html",
+    "main.79397479.js.map": "/react-deploy-demo-1/static/js/main.79397479.js.map"
   },
   "entrypoints": [
     "static/js/main.79397479.js"
